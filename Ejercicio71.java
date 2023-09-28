@@ -38,6 +38,8 @@ public class Ejercicio71 {
         System.out.println("horas: "horas);
        
        //Hola Esquer
+        //HOLA
+        
 
     }
     
